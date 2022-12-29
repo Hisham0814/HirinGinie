@@ -1,0 +1,9 @@
+html { 
+  background: url(background2.jpg);
+  background-size: cover;
+}
+#wrapper {
+    width: 500px;
+    margin: 0 auto;
+}
+
