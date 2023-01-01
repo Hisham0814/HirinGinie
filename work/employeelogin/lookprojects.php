@@ -25,7 +25,7 @@ th {
 <div style="overflow-x:auto;">
 <?php
 $user='root';
-$pass='darknight@1601';
+$pass='password';
 $servername = 'localhost';
 $dbname='project';
 $db=new mysqli($servername,$user,$pass,$dbname) or die ("unable to connect");
